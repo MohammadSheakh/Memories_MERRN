@@ -1,0 +1,10 @@
+for deploying the backend application or rather the api .. we will be using heroku.. heroku is great for 
+hosting servers .. dashboard.heroku.com/apps 
+first amader download and install korte hobe heroku CLI... 
+install korar pore .. console e eshe .. $ heroku -v
+then $ heroku login -> press any key to open up the browser to login.. or q to exit .. 
+then browser login in page ... 
+git init .. 
+.... 
+
+Netlify e amra client side deploy kori ..  npm run build -> Reveal in Finder ... drag and drop 
